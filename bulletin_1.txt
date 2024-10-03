@@ -1,0 +1,5 @@
+Bulletin de notes de Dupont Jean (ID: 1)
+Absences: 1, Retards: 1
+Notes:
+Mathématiques: [15, 17], Moyenne: 16.00
+Moyenne générale: 16.00

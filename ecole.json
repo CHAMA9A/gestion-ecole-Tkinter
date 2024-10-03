@@ -1,0 +1,26 @@
+{
+    "etudiants": {
+        "1": {
+            "nom": "Dupont",
+            "prenom": "Jean",
+            "id_etudiant": 1,
+            "notes": {
+                "Math\u00e9matiques": [
+                    15,
+                    17
+                ]
+            },
+            "absences": 1,
+            "retards": 1
+        }
+    },
+    "matieres": [
+        "Math\u00e9matiques"
+    ],
+    "professeurs": {
+        "Martin Pierre": {
+            "nom": "Martin",
+            "prenom": "Pierre"
+        }
+    }
+}

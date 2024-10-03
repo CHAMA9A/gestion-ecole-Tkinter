@@ -1,0 +1,7 @@
+Bulletin de youness aouragh
+Absences: 1, Retards: 0
+Notes :
+html : [12.0, 20.0]
+philo : [15.0]
+python : [19.0]
+Moyenne générale : 16.5
